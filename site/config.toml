@@ -1,4 +1,4 @@
-baseurl = "https://www.optimalforce.co"
+baseurl = "https://offvictor.netlify.com"
 title = "Optimal Force Fitness"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
